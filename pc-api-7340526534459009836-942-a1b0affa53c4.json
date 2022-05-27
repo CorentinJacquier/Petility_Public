@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pc-api-7340526534459009836-942",
+  "private_key_id": "a1b0affa53c4cccc952df6fab2a95c740c7196e6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCuGiOIX1j4VuqG\nbNLmIx654caFv6iuil1EbQ3n4pV6M4EEf+enqSlIC8E0rHRiUH/0v3cXvT/QBKlo\ntwRtsDdrW2VQNCnueH/Cb13cEdpFJ1FkAOya7/Jl8M0okOG1K67lQO/JCajdEbrN\nKYSl3+jCj6kSchRCfgOLLaG0nCFmTpbJJpBoInkt3hoHNkOj1POdJQeV87y56uHI\nXbRKmtPpFiljWhFdW7Ls3bcqS8pOg+T/bqKjKPKkyH8CQP2DZaphaXQAykYYaXR/\nSXB8wUPAiU6x5aACvbRC0oN5Sf6erzc7vIvA3K37q1ELmnHxGXC0deb7/aoFODv4\nZXSO8vFnAgMBAAECggEASfx0ri7qxbpV9uNHKqKxG4gtT8hXfDjzkrEPcEQThrdd\ndBaQ0Oir0OCh7er9mIwiHFXDW/TCKfnZLlVcTerNWlOgNdm9GgjeLjgaeHujuLCR\nP4C/C8a9SYHwBXWwXUffjrAuVk5DExNGQYqLwtvo88mOLXcKUglwIxS0u+Z/sRQw\nL06mOWiJKpKqGyCA67bVZUca1CeATZ+DwJR0iQLZw8qTvcLe/wuXOB2fuXL3KAgL\ni6EEA/OqPiyCCwrLkKetCKv1z4naBmVJZ/N0TlXlwBVvb8k4G7TkJhPaa/dZ6hWa\nOZ4HH2e5FK7VEmNXcoB9iEONaiHi10LWqNv2w0eVEQKBgQDZhNHdOoughOI/dLvb\ns6LiKwOhZ+nCc60Q1Pnhm16kQ3is8WUqUAFR/gT6pUG9A0hj+iX9D4jYLqAbZMi6\nrN3j/mtySXCpDP/kJVWE3/pnw+FAA8PLRFcYuKpKEkj8OoWsEEQeOdWgbIUO87vh\n/zk8wGy3PPrV3jzbnqN3WwHBVwKBgQDM5wZpcvQr3nytWF2gKKLl7PLRakjT8DKL\nH5LbaHCa7ebqZDDRXCZtkL7hhpdI+PjSBLRBZODO5pYs9G562XqQfJBxjyEWSd01\nnZfL4j9g678HHihNmZnUukNarvS2LUp2MkZUX9R4SaCFubjGl6JxJ8pRDlbbZ0Ju\nRkrvGtX2cQKBgBjQ+3SG+mkc4AcnVUtyijHNgIOIrHW/5s3VzpB7vmd1Py5T+BvE\ntvHYzk6eTgq3dinZ3z2o6Q7o+uFFNVV+5W3el/mZAV54GjW4QLKBLztpcKhyBYOK\nT3mFkAAVZ/hG4PtJe8wLAyFjYCbdjeDx0mDo/z5EmcWOrljMF5BFdMTPAoGBAJys\nPZPdqOPuUAi/m3898yi54ATOLveXHx6Putv3ZLqiE8G/cDB1NJDsb3fEUOMkNCVq\nIWYrO1YYrFWdZOicaAIYrN2X4mXHftRjNtFXorx6JevMXGbRfvVQovWw9z5hLSFp\nWatkRvLe4VW+55E6GqRJF4KY40MKFpp5NwzSyS2RAoGAPkUhB4pgJj8Oma17dsRI\nDYjpten9AHjc++HyCe3pEsg8hvufwYRE9nV9DpN6EKPAJtFeJK66KeDyQ40wA/EL\ntUSQJ36XTdbnhsNOCiOdsGh95mzddYUh7yALrue3Ac9lCLYu5bG818mgEqQS9qsK\nfX2BizcWE/1S7+S9LdnuZQE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "com-gsb-petility-167@pc-api-7340526534459009836-942.iam.gserviceaccount.com",
+  "client_id": "103409685586092375688",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/com-gsb-petility-167%40pc-api-7340526534459009836-942.iam.gserviceaccount.com"
+}
