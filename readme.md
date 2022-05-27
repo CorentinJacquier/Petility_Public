@@ -17,7 +17,7 @@ Voir la [Documentation technique](https://corentin-jacquier.fr/docs/projets/Docu
 
 Les paramètres de connexion à la base de données (Firebase) sont dans `src/firebase/config.json` :
 
-```json
+```js
 const firebaseConfig = {
     apiKey: "clé_api",
     authDomain: "domaine",
@@ -29,6 +29,8 @@ const firebaseConfig = {
     measurementId: "id_meusure"
 };
 ```
+
+Voir [comment faire la connexion avec Firebase](https://firebase.google.com/docs/web/setup).
 
 ## 📷 Capture d'écran
 
